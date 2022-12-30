@@ -1,0 +1,74 @@
+body {
+    background-color: rgb(234, 239, 255);
+}
+
+.top {
+    border-top-style: solid;
+    border-bottom-style: solid;
+    border-color: rgb(146, 211, 255);
+    border-width: 1px;
+    padding-left: 5px;
+    text-align: center;
+    line-height: 13px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+}
+
+.movies {
+    background-color: rgb(237, 255, 255);
+    margin: solid;
+    border: 1px solid rgb(146, 211, 255);
+    border-radius: 30px;
+    padding: 0px 17px 5px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 18px;
+}
+
+.musics {
+    background-color: rgb(237, 255, 255);
+    margin: solid;
+    border: 1px solid rgb(146, 211, 255);
+    border-radius: 30px;
+    padding: 0px 17px 5px 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 18px;
+}
+
+.places {
+    background-color: rgb(61, 139, 255);
+    width: 100%;
+    margin: 0px 0px 0px -9px;
+    padding: 2px 9px 0px 0px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.endpage {
+    font-family: Arial, Helvetica, sans-serif
+}
+
+img {
+    width: 30em;
+    border: solid;
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+}
+
+p {
+    font-size: 17px;
+}
+
+.topfive {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 14px;
+}
+
+h2 {
+    font-size: 22px;
+}
+
+hr {
+    color: blue;
+}
