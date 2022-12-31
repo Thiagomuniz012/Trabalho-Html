@@ -1,1 +1,1 @@
-Projeto de Estudos
+Estudos de Html, CSS e JavaScript
